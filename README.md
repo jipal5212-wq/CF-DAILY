@@ -6,13 +6,14 @@
 
 | Total Problems | Topics |
 |---|---|
-| 1 | 1 |
+| 2 | 2 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [constructive algorithms](#constructive-algorithms) (1)
+- [strings](#strings) (1)
 
 ---
 
@@ -21,6 +22,12 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 2263B | [Min Matrices](https://codeforces.com/contest/2263/problem/B) | Unrated | [C++20 (GCC 13-64)](https://github.com/jipal5212-wq/CF-DAILY/blob/HEAD/2263/B%20-%20Min%20Matrices/solution.cpp) |
+
+### strings
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 43A | [Football](https://codeforces.com/contest/43/problem/A) | 1000 | [C++20 (GCC 13-64)](https://github.com/jipal5212-wq/CF-DAILY/blob/HEAD/43/A%20-%20Football/solution.cpp) |
 
 ---
 
