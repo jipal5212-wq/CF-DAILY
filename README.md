@@ -6,28 +6,119 @@
 
 | Total Problems | Topics |
 |---|---|
-| 1 | 2 |
+| 10 | 13 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [games](#games) (1)
-- [math](#math) (1)
+- [*special](#special) (1)
+- [constructive algorithms](#constructive-algorithms) (2)
+- [data structures](#data-structures) (1)
+- [dfs and similar](#dfs-and-similar) (1)
+- [dp](#dp) (1)
+- [dsu](#dsu) (1)
+- [games](#games) (2)
+- [greedy](#greedy) (5)
+- [implementation](#implementation) (3)
+- [math](#math) (4)
+- [number theory](#number-theory) (1)
+- [sortings](#sortings) (3)
+- [strings](#strings) (2)
 
 ---
+
+### *special
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 158A | [Next Round](https://codeforces.com/contest/158/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/jipal5212-wq/CF-DAILY/blob/HEAD/158/A%20-%20Next%20Round/solution.cpp) |
+
+### constructive algorithms
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2244C | [Stepan and Permutation](https://codeforces.com/contest/2244/problem/C) | 1100 | [C++20 (GCC 13-64)](https://github.com/jipal5212-wq/CF-DAILY/blob/HEAD/2244/C%20-%20Stepan%20and%20Permutation/solution.cpp) |
+| 2246A | [farmpiggie and Subset Sum](https://codeforces.com/contest/2246/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/jipal5212-wq/CF-DAILY/blob/HEAD/2246/A%20-%20farmpiggie%20and%20Subset%20Sum/solution.cpp) |
+
+### data structures
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2242B | [Predominant Frequency Division](https://codeforces.com/contest/2242/problem/B) | 1000 | [C++20 (GCC 13-64)](https://github.com/jipal5212-wq/CF-DAILY/blob/HEAD/2242/B%20-%20Predominant%20Frequency%20Division/solution.cpp) |
+
+### dfs and similar
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2244C | [Stepan and Permutation](https://codeforces.com/contest/2244/problem/C) | 1100 | [C++20 (GCC 13-64)](https://github.com/jipal5212-wq/CF-DAILY/blob/HEAD/2244/C%20-%20Stepan%20and%20Permutation/solution.cpp) |
+
+### dp
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2244A | [Iskander and Drawings](https://codeforces.com/contest/2244/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/jipal5212-wq/CF-DAILY/blob/HEAD/2244/A%20-%20Iskander%20and%20Drawings/solution.cpp) |
+
+### dsu
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2244C | [Stepan and Permutation](https://codeforces.com/contest/2244/problem/C) | 1100 | [C++20 (GCC 13-64)](https://github.com/jipal5212-wq/CF-DAILY/blob/HEAD/2244/C%20-%20Stepan%20and%20Permutation/solution.cpp) |
 
 ### games
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 2244A | [Iskander and Drawings](https://codeforces.com/contest/2244/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/jipal5212-wq/CF-DAILY/blob/HEAD/2244/A%20-%20Iskander%20and%20Drawings/solution.cpp) |
 | 2261A | [Hey, It's Me, Souvlakity](https://codeforces.com/contest/2261/problem/A) | Unrated | [C++20 (GCC 13-64)](https://github.com/jipal5212-wq/CF-DAILY/blob/HEAD/2261/A%20-%20Hey%2C%20It's%20Me%2C%20Souvlakity/solution.cpp) |
+
+### greedy
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2242B | [Predominant Frequency Division](https://codeforces.com/contest/2242/problem/B) | 1000 | [C++20 (GCC 13-64)](https://github.com/jipal5212-wq/CF-DAILY/blob/HEAD/2242/B%20-%20Predominant%20Frequency%20Division/solution.cpp) |
+| 2244A | [Iskander and Drawings](https://codeforces.com/contest/2244/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/jipal5212-wq/CF-DAILY/blob/HEAD/2244/A%20-%20Iskander%20and%20Drawings/solution.cpp) |
+| 2244B | [Nikita and Books](https://codeforces.com/contest/2244/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/jipal5212-wq/CF-DAILY/blob/HEAD/2244/B%20-%20Nikita%20and%20Books/solution.cpp) |
+| 2244C | [Stepan and Permutation](https://codeforces.com/contest/2244/problem/C) | 1100 | [C++20 (GCC 13-64)](https://github.com/jipal5212-wq/CF-DAILY/blob/HEAD/2244/C%20-%20Stepan%20and%20Permutation/solution.cpp) |
+| 2245B | [Delete and Concatenate](https://codeforces.com/contest/2245/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/jipal5212-wq/CF-DAILY/blob/HEAD/2245/B%20-%20Delete%20and%20Concatenate/solution.cpp) |
+
+### implementation
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 158A | [Next Round](https://codeforces.com/contest/158/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/jipal5212-wq/CF-DAILY/blob/HEAD/158/A%20-%20Next%20Round/solution.cpp) |
+| 282A | [Bit++](https://codeforces.com/contest/282/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/jipal5212-wq/CF-DAILY/blob/HEAD/282/A%20-%20Bit%2B%2B/solution.cpp) |
+| 2242B | [Predominant Frequency Division](https://codeforces.com/contest/2242/problem/B) | 1000 | [C++20 (GCC 13-64)](https://github.com/jipal5212-wq/CF-DAILY/blob/HEAD/2242/B%20-%20Predominant%20Frequency%20Division/solution.cpp) |
 
 ### math
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 2242B | [Predominant Frequency Division](https://codeforces.com/contest/2242/problem/B) | 1000 | [C++20 (GCC 13-64)](https://github.com/jipal5212-wq/CF-DAILY/blob/HEAD/2242/B%20-%20Predominant%20Frequency%20Division/solution.cpp) |
+| 2244B | [Nikita and Books](https://codeforces.com/contest/2244/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/jipal5212-wq/CF-DAILY/blob/HEAD/2244/B%20-%20Nikita%20and%20Books/solution.cpp) |
+| 2244C | [Stepan and Permutation](https://codeforces.com/contest/2244/problem/C) | 1100 | [C++20 (GCC 13-64)](https://github.com/jipal5212-wq/CF-DAILY/blob/HEAD/2244/C%20-%20Stepan%20and%20Permutation/solution.cpp) |
 | 2261A | [Hey, It's Me, Souvlakity](https://codeforces.com/contest/2261/problem/A) | Unrated | [C++20 (GCC 13-64)](https://github.com/jipal5212-wq/CF-DAILY/blob/HEAD/2261/A%20-%20Hey%2C%20It's%20Me%2C%20Souvlakity/solution.cpp) |
+
+### number theory
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2244C | [Stepan and Permutation](https://codeforces.com/contest/2244/problem/C) | 1100 | [C++20 (GCC 13-64)](https://github.com/jipal5212-wq/CF-DAILY/blob/HEAD/2244/C%20-%20Stepan%20and%20Permutation/solution.cpp) |
+
+### sortings
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2242A | [Bigrams](https://codeforces.com/contest/2242/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/jipal5212-wq/CF-DAILY/blob/HEAD/2242/A%20-%20Bigrams/solution.cpp) |
+| 2244B | [Nikita and Books](https://codeforces.com/contest/2244/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/jipal5212-wq/CF-DAILY/blob/HEAD/2244/B%20-%20Nikita%20and%20Books/solution.cpp) |
+| 2244C | [Stepan and Permutation](https://codeforces.com/contest/2244/problem/C) | 1100 | [C++20 (GCC 13-64)](https://github.com/jipal5212-wq/CF-DAILY/blob/HEAD/2244/C%20-%20Stepan%20and%20Permutation/solution.cpp) |
+
+### strings
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2242A | [Bigrams](https://codeforces.com/contest/2242/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/jipal5212-wq/CF-DAILY/blob/HEAD/2242/A%20-%20Bigrams/solution.cpp) |
+| 2244A | [Iskander and Drawings](https://codeforces.com/contest/2244/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/jipal5212-wq/CF-DAILY/blob/HEAD/2244/A%20-%20Iskander%20and%20Drawings/solution.cpp) |
 
 ---
 
